@@ -51,32 +51,32 @@ Key capabilities include:
 Here are the features implemented in PassVault:
 
 - Set a **Master Password**, which unlocks access to all saved credentials  
- <img width="323" height="218"  src="https://github.com/Cyber-Security-July-Dec-2025/B3/blob/main/snapshots/master.png" />
+ <img width="323" height="218"  src="snapshots/master.png" />
 
 - Automatically lock the vault after a period of inactivity  
 
 - Add new credentials: **Website**, **Username**, **Password**  
-<img width="370" height="618"  src="https://github.com/Cyber-Security-July-Dec-2025/B3/blob/main/snapshots/ownpassword.png" />
+<img width="370" height="618"  src="snapshots/ownpassword.png" />
 
 - **Generates strong passwords:** Creates random passwords containing **lowercase**, **uppercase**, **numbers**, and **special characters**.  
- <img width="423" height="250"  src="https://github.com/Cyber-Security-July-Dec-2025/B3/blob/main/snapshots/generate.png" />
+ <img width="423" height="250"  src="snapshots/generate.png" />
 
 - Edit, copy, or delete saved credentials  
- <img width="323" height="550"  src="https://github.com/Cyber-Security-July-Dec-2025/B3/blob/main/snapshots/homepage.png" />  
+ <img width="323" height="550"  src="snapshots/homepage.png" />  
 
 - Search through saved credentials (by website or username)  
- <img width="323" height="218"  src="https://github.com/Cyber-Security-July-Dec-2025/B3/blob/main/snapshots/search.png" />  
+ <img width="323" height="218"  src="snapshots/search.png" />  
 
 - Manually lock the vault with a **Lock** button  
 
 - **Auto-fill** login forms on websites where credentials are saved  
- <img width="323" height="518"  src="https://github.com/Cyber-Security-July-Dec-2025/B3/blob/main/snapshots/autofill.png" />  
+ <img width="323" height="518"  src="snapshots/autofill.png" />  
 
 - Context menu integration: Right-click in a username/password field → choose PassVault to fill saved credentials  
- <img width="323" height="618"  src="https://github.com/Cyber-Security-July-Dec-2025/B3/blob/main/snapshots/right-click.png" />
+ <img width="323" height="618"  src="snapshots/right-click.png" />
 
 - Prompt to save credentials when user enters a new login on a website (if not already saved) — helps avoid saving wrong or partial info  
- <img width="323" height="618"  src="https://github.com/Cyber-Security-July-Dec-2025/B3/blob/main/snapshots/confirm.png" />  
+ <img width="323" height="618"  src="snapshots/confirm.png" />  
 
   
 
@@ -124,7 +124,7 @@ Since this extension is not published on any browser store, you’ll need to loa
 1. **Download / Clone**  
    - Clone the repo:  
      ```bash
-     git clone https://github.com/Cyber-Security-July-Dec-2025/B3.git
+     git clone https://github.com/EknoorSingh007/PassVault.git
      ```
    - Or download ZIP via GitHub → Code → Download ZIP  
 
